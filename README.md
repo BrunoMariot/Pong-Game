@@ -9,6 +9,7 @@ Tivemos a ideia de fazer este jogo apartir das instruções do usuário romy421k
 - Na parte do placar mudamos as cores, os nomes de player para jogador e o limite de pontos para o jogador vencer
 - Velocidade da bola no meio do jogo
 - Configuração das teclas que movem a raquete para os dois jogadores
+- Para iniciar o jogo é necessário ter o Replit baixado e entrar no aquivo
 
 ## Colaboradores
 Tivemos com programador principal @lorenzoloffi , e colaboradores @BrunoMariot e @martinaarmanini
