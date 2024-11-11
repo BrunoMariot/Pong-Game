@@ -13,3 +13,6 @@ Tivemos a ideia de fazer este jogo apartir das instruções do usuário romy421k
 
 ## Colaboradores
 Tivemos com programador principal @lorenzoloffi , e colaboradores @BrunoMariot e @martinaarmanini
+
+## Link do Vídeo explicativo
+https://youtu.be/XP4Dkk1e1h4?si=zRY88xRRxq2E69KI
